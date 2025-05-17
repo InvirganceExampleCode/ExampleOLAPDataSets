@@ -1,6 +1,7 @@
 MIT License
 
 Java Code is Copyright (c) 2025 Invirgance
+
 Data and SQL is Copyright (c) Microsoft Corporation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
